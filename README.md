@@ -1,3 +1,3 @@
-# こんにちは　はこです(@paquet04)
-- プログラミングを勉強中
-- [Twitter](https://twitter.com/paquet04)
+# こんにちは　たまごです
+- プログラミングを勉強中(?)
+- [Twitter](https://twitter.com/GHwxb6)
